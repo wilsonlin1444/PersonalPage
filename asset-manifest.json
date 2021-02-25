@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/PersonalPage/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/PersonalPage/static/js/main.f881d67e.chunk.js",
-    "main.js.map": "/PersonalPage/static/js/main.f881d67e.chunk.js.map",
-    "runtime-main.js": "/PersonalPage/static/js/runtime-main.ceb1da83.js",
-    "runtime-main.js.map": "/PersonalPage/static/js/runtime-main.ceb1da83.js.map",
-    "static/js/2.4d7d51ad.chunk.js": "/PersonalPage/static/js/2.4d7d51ad.chunk.js",
-    "static/js/2.4d7d51ad.chunk.js.map": "/PersonalPage/static/js/2.4d7d51ad.chunk.js.map",
-    "static/js/3.a4a41df2.chunk.js": "/PersonalPage/static/js/3.a4a41df2.chunk.js",
-    "static/js/3.a4a41df2.chunk.js.map": "/PersonalPage/static/js/3.a4a41df2.chunk.js.map",
+    "main.css": "/PersonalPage/static/css/main.e63e2a6b.chunk.css",
+    "main.js": "/PersonalPage/static/js/main.047983fa.chunk.js",
+    "main.js.map": "/PersonalPage/static/js/main.047983fa.chunk.js.map",
+    "runtime-main.js": "/PersonalPage/static/js/runtime-main.24ae909b.js",
+    "runtime-main.js.map": "/PersonalPage/static/js/runtime-main.24ae909b.js.map",
+    "static/js/2.f4b4a65e.chunk.js": "/PersonalPage/static/js/2.f4b4a65e.chunk.js",
+    "static/js/2.f4b4a65e.chunk.js.map": "/PersonalPage/static/js/2.f4b4a65e.chunk.js.map",
+    "static/js/3.2040f649.chunk.js": "/PersonalPage/static/js/3.2040f649.chunk.js",
+    "static/js/3.2040f649.chunk.js.map": "/PersonalPage/static/js/3.2040f649.chunk.js.map",
     "index.html": "/PersonalPage/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/PersonalPage/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4d7d51ad.chunk.js.LICENSE.txt": "/PersonalPage/static/js/2.4d7d51ad.chunk.js.LICENSE.txt",
+    "static/css/main.e63e2a6b.chunk.css.map": "/PersonalPage/static/css/main.e63e2a6b.chunk.css.map",
+    "static/js/2.f4b4a65e.chunk.js.LICENSE.txt": "/PersonalPage/static/js/2.f4b4a65e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PersonalPage/static/media/linowrite.669d001d.ttf",
     "static/media/logo.6ce24c58.svg": "/PersonalPage/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ceb1da83.js",
-    "static/js/2.4d7d51ad.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f881d67e.chunk.js"
+    "static/js/runtime-main.24ae909b.js",
+    "static/js/2.f4b4a65e.chunk.js",
+    "static/css/main.e63e2a6b.chunk.css",
+    "static/js/main.047983fa.chunk.js"
   ]
 }
