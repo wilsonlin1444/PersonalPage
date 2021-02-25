@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/PersonalPage/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/PersonalPage/static/js/main.f881d67e.chunk.js",
-    "main.js.map": "/PersonalPage/static/js/main.f881d67e.chunk.js.map",
-    "runtime-main.js": "/PersonalPage/static/js/runtime-main.ceb1da83.js",
-    "runtime-main.js.map": "/PersonalPage/static/js/runtime-main.ceb1da83.js.map",
-    "static/js/2.4d7d51ad.chunk.js": "/PersonalPage/static/js/2.4d7d51ad.chunk.js",
-    "static/js/2.4d7d51ad.chunk.js.map": "/PersonalPage/static/js/2.4d7d51ad.chunk.js.map",
-    "static/js/3.a4a41df2.chunk.js": "/PersonalPage/static/js/3.a4a41df2.chunk.js",
-    "static/js/3.a4a41df2.chunk.js.map": "/PersonalPage/static/js/3.a4a41df2.chunk.js.map",
-    "index.html": "/PersonalPage/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/PersonalPage/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4d7d51ad.chunk.js.LICENSE.txt": "/PersonalPage/static/js/2.4d7d51ad.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/PersonalPage/static/media/logo.6ce24c58.svg"
+    "main.css": "/personal_page/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/personal_page/static/js/main.f881d67e.chunk.js",
+    "main.js.map": "/personal_page/static/js/main.f881d67e.chunk.js.map",
+    "runtime-main.js": "/personal_page/static/js/runtime-main.00ed8999.js",
+    "runtime-main.js.map": "/personal_page/static/js/runtime-main.00ed8999.js.map",
+    "static/js/2.4d7d51ad.chunk.js": "/personal_page/static/js/2.4d7d51ad.chunk.js",
+    "static/js/2.4d7d51ad.chunk.js.map": "/personal_page/static/js/2.4d7d51ad.chunk.js.map",
+    "static/js/3.a4a41df2.chunk.js": "/personal_page/static/js/3.a4a41df2.chunk.js",
+    "static/js/3.a4a41df2.chunk.js.map": "/personal_page/static/js/3.a4a41df2.chunk.js.map",
+    "index.html": "/personal_page/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/personal_page/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4d7d51ad.chunk.js.LICENSE.txt": "/personal_page/static/js/2.4d7d51ad.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/personal_page/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ceb1da83.js",
+    "static/js/runtime-main.00ed8999.js",
     "static/js/2.4d7d51ad.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.f881d67e.chunk.js"
