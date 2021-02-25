@@ -3,6 +3,6 @@ import React from "react";
 
 export function HomeScreen(){
     return(
-        <button> hihi</button>
+        <text style={{fontFamily:"linowrite"}}> hihi, I am Wilson Lin, byebye happy, Call me maybe</text>
     )        
 }
