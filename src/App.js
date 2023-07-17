@@ -1,14 +1,16 @@
 import logo from './logo.svg';
+import { Background } from './components/background';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch, Redirect, Link } from 'react-router-dom';
 import {HomeScreen} from "./screen/HomeScreen"
 
 const App = () => (
   <Router>
-      <div>
+      <Background/>
+      <div style={{position: 'absolute', width:'100%', height:'100%', top:0}}>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/"><div style={{fontColor:'white'}}>Home</div></Link>
           </li>
           <li>
             <Link to="/about">About</Link>
@@ -17,7 +19,6 @@ const App = () => (
             <Link to="/dashboard">Dashboard</Link>
           </li>
         </ul>
-
         <hr />
 
         {/*
